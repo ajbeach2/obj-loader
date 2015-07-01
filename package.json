@@ -2,7 +2,7 @@
   "name": "obj-loader",
   "version": "1.0.0",
   "description": "A mesh loader and viewer for obj objects with WebGL",
-  "main": "index.js",
+  "main": "src/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,5 +13,8 @@
     "render"
   ],
   "author": "ajbeach2@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.0"
+  }
 }
