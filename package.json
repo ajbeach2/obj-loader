@@ -1,0 +1,17 @@
+{
+  "name": "obj-loader",
+  "version": "1.0.0",
+  "description": "A mesh loader and viewer for obj objects with WebGL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webgl",
+    "obj",
+    "mesh",
+    "render"
+  ],
+  "author": "ajbeach2@gmail.com",
+  "license": "MIT"
+}
